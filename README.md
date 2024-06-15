@@ -43,7 +43,7 @@ This portfolio is a collection of my work throughout the Master's program, demon
 
 - **Description**: This project involved analyzing Steam player count data to uncover trends and insights.
 - **Tools Used**: R, dplyr, tidyr, readr, lubridate, ggplot2
-- **Link to Project**: [Steam Player Count Analysis](link-to-steam-player-count-analysis)
+- **Link to Project**: [Steam Player Count Analysis]([link-to-steam-player-count-analysis](https://github.com/Tundoori/DataSciencePortfolio/tree/main/Steam%20Player%20Count%20Analysis))
 
 ### DataQuest Account Administration – Database Management
 
