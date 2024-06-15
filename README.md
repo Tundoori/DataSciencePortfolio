@@ -15,7 +15,7 @@ SUID: 755161410
 5. [Projects](#projects)
     - [Steam Player Count Analysis – Core Data Science](#steam-player-count-analysis--core-data-science)
     - [DataQuest Account Administration – Database Management](#dataquest-account-administration--database-management)
-    - [Goodreads Book Reviews – Applied Machine Learning](#goodreads-book-reviews--applied-machine-learning)
+    - [Loan Analysis – Business Analytics](#loan-analysis--business-analytics)
     - [Movie Recommendation System – Text Mining](#movie-recommendation-system--text-mining)
     - [Disney Movie Success Story – Data Visualization](#disney-movie-success-story--data-visualization)
 
@@ -51,11 +51,11 @@ This portfolio is a collection of my work throughout the Master's program, demon
 - **Tools Used**: SQL, MySQL
 - **Link to Project**: [DataQuest Account Administration](https://github.com/Tundoori/DataSciencePortfolio/tree/main/IST%20659%20-%20DataQuest%20Account%20Administration)
 
-### Goodreads Book Reviews – Applied Machine Learning
+### Loan Analysis – Business Analytics
 
-- **Description**: Developed machine learning models to analyze and predict book ratings based on Goodreads reviews.
-- **Tools Used**: Python, NLTK, scikit-learn, pandas, numpy, matplotlib, TF-IDF vectorizer
-- **Link to Project**: [Goodreads Book Reviews](link-to-goodreads-book-reviews)
+- **Description**: Performed a Logit and Probit analysis to identify significant variables influencing a customer's decision to take out a loan.
+- **Tools Used**: Microsoft Excel
+- **Link to Project**: [Loan Analysis](link-to-loan-analysis)
 
 ### Movie Recommendation System – Text Mining
 
