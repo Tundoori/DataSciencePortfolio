@@ -41,7 +41,7 @@ This portfolio is a collection of my work throughout the Master's program, demon
 
 ### Steam Player Count Analysis – Core Data Science
 
-- **Description**: This project involved analyzing Steam player count data to uncover trends and insights.
+- **Description**: Analyzed Steam player count data to uncover trends and insights.
 - **Tools Used**: R, dplyr, tidyr, readr, lubridate, ggplot2
 - **Link to Project**: [Steam Player Count Analysis](https://github.com/Tundoori/DataSciencePortfolio/tree/main/IST%20687%20-%20Steam%20Player%20Count%20Analysis)
 
