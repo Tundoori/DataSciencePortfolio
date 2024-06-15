@@ -49,7 +49,7 @@ This portfolio is a collection of my work throughout the Master's program, demon
 
 - **Description**: Managed and optimized an account database for DataQuest (a fictional MMO game) to improve performance and user experience.
 - **Tools Used**: SQL, MySQL
-- **Link to Project**: [DataQuest Account Administration](link-to-dataquest-account-administration)
+- **Link to Project**: [DataQuest Account Administration](https://github.com/Tundoori/DataSciencePortfolio/tree/main/DataQuest%20Account%20Administration)
 
 ### Goodreads Book Reviews – Applied Machine Learning
 
