@@ -55,7 +55,7 @@ This portfolio is a collection of my work throughout the Master's program, demon
 
 - **Description**: Performed a Logit and Probit analysis to identify significant variables influencing a customer's decision to take out a loan.
 - **Tools Used**: Microsoft Excel
-- **Link to Project**: [SCM 651 - Loan Analysis](link-to-loan-analysis)
+- **Link to Project**: [SCM 651 - Loan Analysis](https://github.com/Tundoori/DataSciencePortfolio/tree/main/SCM%20651%20-%20Loan%20Analysis)
 
 ### Movie Recommendation System – Text Mining
 
