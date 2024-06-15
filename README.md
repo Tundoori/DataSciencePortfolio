@@ -67,4 +67,4 @@ This portfolio is a collection of my work throughout the Master's program, demon
 
 - **Description**: Created interactive visualizations to illustrate the factors contributing to the success of Disney movies.
 - **Tools Used**: R, dplyr, tidyr, ggplot2, Adobe Illustrator
-- **Link to Project**: [Disney Movie Success Story](link-to-disney-movie-success-story)
+- **Link to Project**: [Disney Movie Success Story](https://github.com/Tundoori/DataSciencePortfolio/tree/main/IST%20719%20-%20Disney%20Movie%20Success%20Story)
