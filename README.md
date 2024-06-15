@@ -43,13 +43,13 @@ This portfolio is a collection of my work throughout the Master's program, demon
 
 - **Description**: This project involved analyzing Steam player count data to uncover trends and insights.
 - **Tools Used**: R, dplyr, tidyr, readr, lubridate, ggplot2
-- **Link to Project**: [Steam Player Count Analysis](https://github.com/Tundoori/DataSciencePortfolio/tree/main/Steam%20Player%20Count%20Analysis)
+- **Link to Project**: [Steam Player Count Analysis](https://github.com/Tundoori/DataSciencePortfolio/tree/main/IST%20687%20-%20Steam%20Player%20Count%20Analysis)
 
 ### DataQuest Account Administration – Database Management
 
 - **Description**: Managed and optimized an account database for DataQuest (a fictional MMO game) to improve performance and user experience.
 - **Tools Used**: SQL, MySQL
-- **Link to Project**: [DataQuest Account Administration](https://github.com/Tundoori/DataSciencePortfolio/tree/main/DataQuest%20Account%20Administration)
+- **Link to Project**: [DataQuest Account Administration](https://github.com/Tundoori/DataSciencePortfolio/tree/main/IST%20659%20-%20DataQuest%20Account%20Administration)
 
 ### Goodreads Book Reviews – Applied Machine Learning
 
