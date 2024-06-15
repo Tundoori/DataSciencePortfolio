@@ -208,7 +208,7 @@ gameCorpus.Top <- corpus(gameLast30.Top500$Game)
 toks.Top <- tokens(gameCorpus.Top, remove_punct = TRUE, remove_numbers = TRUE, remove_symbols = TRUE)
 toksNoStops.Top <- tokens_select(toks.Top, pattern = stopwords("english"), selection = "remove")
 
-gameDFM.Top <- dfm(toksNoStops.Top, remove = c("Ã", "Â", "¯", "¿", "½", "¢", "®", "é", "»", "'", "ç", ">", "S", "Y", "å", "T", "¨"))
+gameDFM.Top <- dfm(toksNoStops.Top, remove = c("Ãƒ", "Ã‚", "Â¯", "Â¿", "Â½", "Â¢", "Â®", "Ã©", "Â»", "'", "Ã§", ">", "S", "Y", "Ã¥", "T", "Â¨"))
 
 gameWC.Top <- textplot_wordcloud(gameDFM.Top, min_count = 2)
 
@@ -220,7 +220,7 @@ gameCorpus.Bottom <- corpus(gameLast30.Bottom500$Game)
 toks.Bottom <- tokens(gameCorpus.Bottom, remove_punct = TRUE, remove_numbers = TRUE, remove_symbols = TRUE)
 toksNoStops.Bottom <- tokens_select(toks.Bottom, pattern = stopwords("english"), selection = "remove")
 
-gameDFM.Bottom <- dfm(toksNoStops.Bottom, remove = c("Ã", "Â", "¯", "¿", "½", "¢", "®", "é", "»", "'", "ç", ">", "S", "Y", "å", "T", "¨"))
+gameDFM.Bottom <- dfm(toksNoStops.Bottom, remove = c("Ãƒ", "Ã‚", "Â¯", "Â¿", "Â½", "Â¢", "Â®", "Ã©", "Â»", "'", "Ã§", ">", "S", "Y", "Ã¥", "T", "Â¨"))
 
 gameWC.Bottom <- textplot_wordcloud(gameDFM.Bottom, min_count = 2)
 
