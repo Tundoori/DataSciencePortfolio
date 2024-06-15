@@ -61,7 +61,7 @@ This portfolio is a collection of my work throughout the Master's program, demon
 
 - **Description**: Built a recommendation system using text mining techniques on movie descriptions and reviews.
 - **Tools Used**: Python, NLTK, scikit-learn, pandas, numpy, matplotlib, seaborn, TF-IDF vectorizer
-- **Link to Project**: [Movie Recommendation System](link-to-movie-recommendation-system)
+- **Link to Project**: [Movie Recommendation System](https://github.com/Tundoori/DataSciencePortfolio/tree/main/IST%20736%20-%20Movie%20Recommendation%20System)
 
 ### Disney Movie Success Story – Data Visualization
 
