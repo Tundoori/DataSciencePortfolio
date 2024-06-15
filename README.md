@@ -12,8 +12,8 @@ Welcome to my Data Science portfolio. This repository contains various projects 
     - [Steam Player Count Analysis – Core Data Science](#steam-player-count-analysis--core-data-science)
     - [DataQuest Account Administration – Database Management](#dataquest-account-administration--database-management)
     - [Goodreads Book Reviews – Applied Machine Learning](#goodreads-book-reviews--applied-machine-learning)
-    - [Disney Movie Success Story – Data Visualization](#disney-movie-success-story--data-visualization)
     - [Movie Recommendation System – Text Mining](#movie-recommendation-system--text-mining)
+    - [Disney Movie Success Story – Data Visualization](#disney-movie-success-story--data-visualization)
 
 ## Introduction
 
@@ -25,12 +25,12 @@ This portfolio is a collection of my work throughout the Master's program, demon
 
 ## Milestone Report
 
-- **Description**: A detailed report outlining the key milestones and achievements throughout my Master's program.
+- **Description**: A detailed report outlining the key milestones and projects completed throughout my M.S. program.
 - **Link to Report**: [Milestone Report](link-to-milestone-report)
 
 ## Portfolio Presentation
 
-- **Description**: A video presentation of my portfolio, featuring PowerPoint slides that summarize my projects and skills.
+- **Description**: A video presentation of my portfolio that summarizes my milestone report.
 - **Link to Presentation**: [Portfolio Presentation](link-to-presentation)
 
 ## Projects
@@ -38,29 +38,29 @@ This portfolio is a collection of my work throughout the Master's program, demon
 ### Steam Player Count Analysis – Core Data Science
 
 - **Description**: This project involved analyzing Steam player count data to uncover trends and insights.
-- **Tools Used**: Python, Pandas, NumPy, Matplotlib
+- **Tools Used**: R, dplyr, tidyr, readr, lubridate, ggplot2
 - **Link to Project**: [Steam Player Count Analysis](link-to-steam-player-count-analysis)
 
 ### DataQuest Account Administration – Database Management
 
-- **Description**: Managed and optimized the DataQuest account database to improve performance and user experience.
-- **Tools Used**: SQL, PostgreSQL
+- **Description**: Managed and optimized an account database for DataQuest (a fictional MMO game) to improve performance and user experience.
+- **Tools Used**: SQL, MySQL
 - **Link to Project**: [DataQuest Account Administration](link-to-dataquest-account-administration)
 
 ### Goodreads Book Reviews – Applied Machine Learning
 
 - **Description**: Developed machine learning models to analyze and predict book ratings based on Goodreads reviews.
-- **Tools Used**: Python, Scikit-Learn, TensorFlow
+- **Tools Used**: Python, NLTK, scikit-learn, pandas, numpy, matplotlib, TF-IDF vectorizer
 - **Link to Project**: [Goodreads Book Reviews](link-to-goodreads-book-reviews)
-
-### Disney Movie Success Story – Data Visualization
-
-- **Description**: Created interactive visualizations to illustrate the factors contributing to the success of Disney movies.
-- **Tools Used**: Python, Plotly, Tableau
-- **Link to Project**: [Disney Movie Success Story](link-to-disney-movie-success-story)
 
 ### Movie Recommendation System – Text Mining
 
 - **Description**: Built a recommendation system using text mining techniques on movie descriptions and reviews.
-- **Tools Used**: Python, NLTK, Scikit-Learn
+- **Tools Used**: Python, NLTK, scikit-learn, pandas, numpy, matplotlib, seaborn, TF-IDF vectorizer
 - **Link to Project**: [Movie Recommendation System](link-to-movie-recommendation-system)
+
+### Disney Movie Success Story – Data Visualization
+
+- **Description**: Created interactive visualizations to illustrate the factors contributing to the success of Disney movies.
+- **Tools Used**: R, dplyr, tidyr, ggplot2, Adobe Illustrator
+- **Link to Project**: [Disney Movie Success Story](link-to-disney-movie-success-story)
