@@ -43,28 +43,28 @@ This portfolio is a collection of my work throughout the Master's program, demon
 
 - **Description**: Analyzed Steam player count data to uncover trends and insights.
 - **Tools Used**: R, dplyr, tidyr, readr, lubridate, ggplot2
-- **Link to Project**: [Steam Player Count Analysis](https://github.com/Tundoori/DataSciencePortfolio/tree/main/IST%20687%20-%20Steam%20Player%20Count%20Analysis)
+- **Link to Project**: [IST 687 - Steam Player Count Analysis](https://github.com/Tundoori/DataSciencePortfolio/tree/main/IST%20687%20-%20Steam%20Player%20Count%20Analysis)
 
 ### DataQuest Account Administration – Database Management
 
 - **Description**: Managed and optimized an account database for DataQuest (a fictional MMO game) to improve performance and user experience.
 - **Tools Used**: SQL, MySQL
-- **Link to Project**: [DataQuest Account Administration](https://github.com/Tundoori/DataSciencePortfolio/tree/main/IST%20659%20-%20DataQuest%20Account%20Administration)
+- **Link to Project**: [IST 659 - DataQuest Account Administration](https://github.com/Tundoori/DataSciencePortfolio/tree/main/IST%20659%20-%20DataQuest%20Account%20Administration)
 
 ### Loan Analysis – Business Analytics
 
 - **Description**: Performed a Logit and Probit analysis to identify significant variables influencing a customer's decision to take out a loan.
 - **Tools Used**: Microsoft Excel
-- **Link to Project**: [Loan Analysis](link-to-loan-analysis)
+- **Link to Project**: [SCM 651 - Loan Analysis](link-to-loan-analysis)
 
 ### Movie Recommendation System – Text Mining
 
 - **Description**: Built a recommendation system using text mining techniques on movie descriptions and reviews.
 - **Tools Used**: Python, NLTK, scikit-learn, pandas, numpy, matplotlib, seaborn, TF-IDF vectorizer
-- **Link to Project**: [Movie Recommendation System](https://github.com/Tundoori/DataSciencePortfolio/tree/main/IST%20736%20-%20Movie%20Recommendation%20System)
+- **Link to Project**: [IST 736 - Movie Recommendation System](https://github.com/Tundoori/DataSciencePortfolio/tree/main/IST%20736%20-%20Movie%20Recommendation%20System)
 
 ### Disney Movie Success Story – Data Visualization
 
 - **Description**: Created interactive visualizations to illustrate the factors contributing to the success of Disney movies.
 - **Tools Used**: R, dplyr, tidyr, ggplot2, Adobe Illustrator
-- **Link to Project**: [Disney Movie Success Story](https://github.com/Tundoori/DataSciencePortfolio/tree/main/IST%20719%20-%20Disney%20Movie%20Success%20Story)
+- **Link to Project**: [IST 719 - Disney Movie Success Story](https://github.com/Tundoori/DataSciencePortfolio/tree/main/IST%20719%20-%20Disney%20Movie%20Success%20Story)
