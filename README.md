@@ -3,6 +3,7 @@
 Welcome to my Data Science portfolio. This repository contains various projects and assignments completed during my M.S. in Applied Data Science at Syracuse University which reflect abilities specified in the program learning outcomes. The portfolio showcases my skills in data analysis, machine learning, data visualization, and more. 
 
 Email: sknanava@syr.edu
+
 SUID: 755161410
 
 ## Table of Contents
