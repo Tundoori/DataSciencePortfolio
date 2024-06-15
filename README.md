@@ -1,11 +1,14 @@
 # Data Science Portfolio - Sahil Nanavaty
 
-Welcome to my Data Science portfolio. This repository contains various projects and assignments completed during my M.S. in Applied Data Science at Syracuse University. The portfolio showcases my skills in data analysis, machine learning, data visualization, and more.
+Welcome to my Data Science portfolio. This repository contains various projects and assignments completed during my M.S. in Applied Data Science at Syracuse University which reflect abilities specified in the program learning outcomes. The portfolio showcases my skills in data analysis, machine learning, data visualization, and more. 
 
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Projects](#projects)
+2. [Professional Resume](#professional-resume)
+3. [Milestone Report](#milestone-report)
+4. [Portfolio Presentation](#portfolio-presentation)
+5. [Projects](#projects)
     - [Steam Player Count Analysis – Core Data Science](#steam-player-count-analysis--core-data-science)
     - [DataQuest Account Administration – Database Management](#dataquest-account-administration--database-management)
     - [Goodreads Book Reviews – Applied Machine Learning](#goodreads-book-reviews--applied-machine-learning)
@@ -15,6 +18,20 @@ Welcome to my Data Science portfolio. This repository contains various projects 
 ## Introduction
 
 This portfolio is a collection of my work throughout the Master's program, demonstrating my ability to handle real-world data science problems. Each project includes a detailed description, code, and results.
+
+## Professional Resume
+
+- **Link to Resume**: [Professional Resume](link-to-resume)
+
+## Milestone Report
+
+- **Description**: A detailed report outlining the key milestones and achievements throughout my Master's program.
+- **Link to Report**: [Milestone Report](link-to-milestone-report)
+
+## Portfolio Presentation
+
+- **Description**: A video presentation of my portfolio, featuring PowerPoint slides that summarize my projects and skills.
+- **Link to Presentation**: [Portfolio Presentation](link-to-presentation)
 
 ## Projects
 
