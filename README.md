@@ -35,8 +35,7 @@ This portfolio is a collection of my work throughout the Master's program, demon
 ## Portfolio Presentation
 
 - **Description**: A video presentation of my portfolio that summarizes my milestone report.
-- **Link to Presentation (Slides)**: [Portfolio Presentation Slides](https://github.com/Tundoori/DataSciencePortfolio/blob/main/Sahil_Nanavaty_Portfolio_Presentation.pptx)
-- **Link to Presentation (Video)**: [Portfolio Presentation Video](https://github.com/Tundoori/DataSciencePortfolio/blob/main/Sahil_Nanavaty_Portfolio_Presentation.pptx)
+- **Link to Presentation**: [Portfolio Presentation](https://github.com/Tundoori/DataSciencePortfolio/blob/main/Sahil_Nanavaty_Portfolio_Presentation.pptx)
 
 ## Projects
 
