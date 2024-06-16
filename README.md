@@ -25,7 +25,7 @@ This portfolio is a collection of my work throughout the Master's program, demon
 
 ## Professional Resume
 
-- **Link to Resume**: [Professional Resume](link-to-resume)
+- **Link to Resume**: [Professional Resume](https://github.com/Tundoori/DataSciencePortfolio/blob/main/Sahil_Nanavaty_Resume)
 
 ## Milestone Report
 
