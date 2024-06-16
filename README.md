@@ -30,7 +30,7 @@ This portfolio is a collection of my work throughout the Master's program, demon
 ## Milestone Report
 
 - **Description**: A detailed report outlining the key milestones and projects completed throughout my M.S. program.
-- **Link to Report**: [Milestone Report](link-to-milestone-report)
+- **Link to Report**: [Milestone Report](https://github.com/Tundoori/DataSciencePortfolio/blob/main/Sahil_Nanavaty_Milestone_Report.docx)
 
 ## Portfolio Presentation
 
